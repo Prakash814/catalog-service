@@ -21,3 +21,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+*.prefs
+.classpath
+.project
+bin/.project
+bin/pom.xml
+bin/README.md
+bin/target/classes/META-INF/MANIFEST.MF
+target/catalog-service-new-0.0.1-SNAPSHOT.jar.original
+target/classes/application.properties
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.example/catalog-service-new/pom.properties
+target/classes/META-INF/maven/com.example/catalog-service-new/pom.xml
+target/maven-archiver/pom.properties
+target/*
